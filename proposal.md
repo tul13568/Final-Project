@@ -36,4 +36,4 @@ The best outcome would be a running program that both veryfying through other so
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-I woud really need to research more about business liscenses and what is necessary to run a business. Like what seperates necessity from luxury. Than also how to use Python as a verication tool in the most sufficient manner.
+I woud really need to research more about business liscenses and what is necessary to run a business. Like what seperates necessity from luxury. Then also how to use Python as a verication tool in the most sufficient manner.
